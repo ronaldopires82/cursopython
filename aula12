@@ -1,0 +1,13 @@
+# Aula sobre comentários em Python
+
+print ('Linha 1')
+print ('Linha 2')
+print ('Linha 3')
+print ('Linha 4')
+print ('Linha 5')
+print ('Linha 6')  # Para escrever um comentário, comece com uma cerquilha (#), dois espaços antes
+# no começo de uma linha não precisa de espaço antes da cerquilha
+"""
+Para comentários multilinhas podemos usar aspas triplas,
+duplas ou simples, exatamente desta forma.
+"""
