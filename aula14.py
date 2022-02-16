@@ -12,4 +12,3 @@ print('Meu nome é Ronaldo,\ne vou virar programador')
 
 # se quiser, dá pra colocar um r antes do primeiro argumento na função print pra não executar nada, mas só ler
 print(r'aqui não é para executar nada, mesmo que \n tenha uma quebra de linha')
-
